@@ -6,7 +6,7 @@
   (Selenium, COM, NPOI).
 - **Backend:** web services and APIs, Blazor web apps, Telegram and MAX
   bots, background jobs.
-- **IDP:** ABBYY FlexiCapture. Data extraction from scans and PDFs with
+- **IDP:** ABBYY FlexiCapture/Content AI ContentCapture. Data extraction from scans and PDFs with
   self-hosted VLM and OCR models. Image classification and object
   detection with ML.NET.
 
