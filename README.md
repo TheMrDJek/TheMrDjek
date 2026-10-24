@@ -1,4 +1,5 @@
-- **Backend:** web services and APIs, Telegram and MAX bots, background jobs.
+- **Backend:** web services and APIs, Blazor web apps, Telegram and MAX
+  bots, background jobs.
 - **RPA:** robots and custom activities on UiPath, PIX RPA and Sherpa RPA.
   Orchestrator deployment in Docker, ERP integrations, browser and Office
   automation (Selenium, COM, NPOI), robot monitoring.
